@@ -1,0 +1,1 @@
+export const pay= "this is the text";
